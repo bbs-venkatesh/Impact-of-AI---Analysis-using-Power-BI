@@ -43,7 +43,7 @@ This page focuses on the differentiated impact of AI across various industries, 
 
 **Key Insight:** The analysis shows that 2023 has the most AI adoption rate in th eperiod of 2020 to 2025 and Australia has the most Human-AI collaboration Rate.
 
-![Sample Graph](report_images/1_Industry Specific Analysis.png)
+![Sample Graph](report_images/1_Industry_Specific_Analysis.png)
 
 ### Page 2: Global AI Trends
 This page provides a high-level overview of global AI trends, highlighting adoption rates, revenue growth, and job displacement across different countries.
@@ -62,7 +62,7 @@ This page provides a high-level overview of global AI trends, highlighting adopt
 
 **Key Insight:** AI adoption Rate and Revenue Increase due to AI is increasing rapidly on a global scale. Canada shows the highest job loss percentage, while the Australia leads in AI adoption.
 
-![Sample Graph](report_images/2_Global AI Trends.png)
+![Sample Graph](report_images/2_Global_AI_Trends.png)
 
 ### Page 3: Governance and Consumer Trust
 This page explores the crucial relationship between government regulation, public perception, and the market dynamics of AI.
@@ -79,7 +79,7 @@ This page explores the crucial relationship between government regulation, publi
 
 **Key Insight:** China is the top country for AI-generated content, while Germany leads in market share, highlighting a complex and varied global AI landscape.
 
-![Sample Graph](report_images/3_Governance and Consumer Trust.png)
+![Sample Graph](report_images/3_Governance_and_Consumer_Trust.png)
 
 ### 5. Technologies Used
 **Data Extraction & Processing:** Python
